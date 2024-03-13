@@ -1,0 +1,18 @@
+body{
+    margin-left: 1rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input{
+    border-radius: 7px;
+    box-shadow: 0px 0px 0px 1.5px;
+    margin-top: 0.6rem;
+}
+
+.campotexto{
+    background-color: rgb(156, 156, 156);
+}
+
+.campotexto:hover{
+    background-color: rgb(112, 112, 112);
+}
